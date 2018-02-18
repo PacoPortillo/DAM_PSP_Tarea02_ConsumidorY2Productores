@@ -1,0 +1,74 @@
+
+
+ ******************************************************* 
+
+
+ El valor máximo es: 1000
+
+
+ ******************************************************* 
+
+
+ Comienza la ejecución: 
+
+
+ ******************************************************* 
+
+
+ Hilo Productor 2. Introduce el valor: 72, en la posición: 1
+ Hilo Consumidor. El Array está vacío.**************************
+ Hilo Productor 1. Introduce el valor: 83, en la posición: 2
+ Hilo Consumidor. Saca el valor: 72, de la posición: 1
+ Hilo Productor 2. Introduce el valor: 40, en la posición: 3
+ Hilo Productor 1. Introduce el valor: 69, en la posición: 4
+ Hilo Consumidor. Saca el valor: 83, de la posición: 2
+ Hilo Productor 2. Introduce el valor: 84, en la posición: 5
+ Hilo Productor 1. Introduce el valor: 13, en la posición: 6
+ Hilo Consumidor. Saca el valor: 40, de la posición: 3
+ Hilo Productor 2. Introduce el valor: 78, en la posición: 7
+ Hilo Productor 1. Introduce el valor: 35, en la posición: 8
+ Hilo Consumidor. Saca el valor: 69, de la posición: 4
+ Hilo Productor 2. Introduce el valor: 12, en la posición: 9
+ Hilo Productor 1. Introduce el valor: 7, en la posición: 10
+ Hilo Consumidor. Saca el valor: 84, de la posición: 5
+ Hilo Productor 2. Introduce el valor: 94, en la posición: 1
+ Hilo Productor 1. Introduce el valor: 43, en la posición: 2
+ Hilo Consumidor. Saca el valor: 13, de la posición: 6
+ Hilo Consumidor. Saca el valor: 78, de la posición: 7
+ Hilo Productor 2. Introduce el valor: 12, en la posición: 3
+ Hilo Productor 1. Introduce el valor: 77, en la posición: 4
+ Hilo Consumidor. Saca el valor: 35, de la posición: 8
+ Hilo Consumidor. Saca el valor: 12, de la posición: 9
+ Hilo Productor 1. Introduce el valor: 31, en la posición: 5
+ Hilo Productor 2. Introduce el valor: 88, en la posición: 6
+ Hilo Consumidor. Saca el valor: 7, de la posición: 10
+ Hilo Consumidor. Saca el valor: 94, de la posición: 1
+ Hilo Productor 2. Introduce el valor: 16, en la posición: 7
+ Hilo Productor 1. Introduce el valor: 29, en la posición: 8
+ Hilo Consumidor. Saca el valor: 43, de la posición: 2
+ Hilo Consumidor. Saca el valor: 12, de la posición: 3
+ Hilo Productor 1. Introduce el valor: 63, en la posición: 9
+ Hilo Productor 2. Introduce el valor: 46, en la posición: 10
+ Hilo Consumidor. Saca el valor: 77, de la posición: 4
+ Hilo Consumidor. Saca el valor: 31, de la posición: 5
+ Hilo Productor 2. Introduce el valor: 86, en la posición: 1
+ Hilo Productor 1. Introduce el valor: 47, en la posición: 2
+ Hilo Consumidor. Saca el valor: 88, de la posición: 6
+ Hilo Consumidor. Saca el valor: 16, de la posición: 7
+ Hilo Productor 1. Introduce el valor: 55, en la posición: 3
+ Hilo Productor 2. Introduce el valor: 8, en la posición: 4
+ Hilo Consumidor. Saca el valor: 29, de la posición: 8
+ Hilo Consumidor. Saca el valor: 63, de la posición: 9
+ Hilo Productor 1. Introduce el valor: 83, en la posición: 5
+ Hilo Productor 2. Introduce el valor: 88, en la posición: 6
+ Hilo Consumidor. Saca el valor: 46, de la posición: 10
+ Hilo Consumidor. Saca el valor: 86, de la posición: 1
+
+ Hilo Productor 1. Introduce el valor: 71, en la posición: 7
+
+
+ ********** Hilo Consumidor ha superado su valor máximo 1000, haciendo un total de: 1078 ********** 
+
+
+
+ Hilo Productor 2. Introduce el valor: 86, en la posición: 8

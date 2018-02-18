@@ -1,0 +1,31 @@
+
+
+ ******************************************************* 
+
+
+ El valor máximo es: 0
+
+
+ ******************************************************* 
+
+
+ Comienza la ejecución: 
+
+
+ ******************************************************* 
+
+
+ Hilo Consumidor. El Array está vacío.**************************
+ Hilo Productor 1. Introduce el valor: 89, en la posición: 1
+ Hilo Productor 2. Introduce el valor: 6, en la posición: 2
+ Hilo Productor 1. Introduce el valor: 77, en la posición: 3
+ Hilo Consumidor. Saca el valor: 89, de la posición: 1
+
+ Hilo Productor 2. Introduce el valor: 78, en la posición: 4
+
+
+ ********** Hilo Consumidor ha superado su valor máximo 0, haciendo un total de: 89 ********** 
+
+
+
+ Hilo Productor 1. Introduce el valor: 33, en la posición: 5
